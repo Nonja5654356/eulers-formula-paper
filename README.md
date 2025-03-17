@@ -12,7 +12,7 @@ Taylor series.
 
 ## Files
 - [`Euler's Formula Connecting Exponentials and Trigonometry.pdf`](./Euler's Formula Connecting Exponentials and Trigonometry.pdf): Final PDF of the paper.
-
+- [`Euler's Formula Connecting Exponentials and Trigonometry.tex`](./Euler's Formula Connecting Exponentials and Trigonometry.tex): LaTeX source code of the paper.
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
